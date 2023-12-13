@@ -35,6 +35,8 @@ It portrays a creature imagining itself with really big eyes.
 The image of what it is supposed to look like is called file.png (if it somehow gets corrupted)
 I also included a backup.dat file in case the main one gets corrupted.
 
+![image](https://github.com/robingould/Paint-Tool/assets/13643473/4da49c0d-83b8-4a17-8b17-60051ec97ae0)
+
 Known Bugs: 
 Sometimes the order of items in the save file is switched. 
 Fine for most files, but files where you want to have overlapping objects can get corrupted.

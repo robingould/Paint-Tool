@@ -1,3 +1,5 @@
+C++ & Allegro5 Paint Tool
+
 To build the code from command line (on MacOS or Linux), do:
 
 g++ ECGraphicViewImp.cpp PaintMVC.cpp Polygon.cpp AbstractPolygon.cpp Command.cpp test-gv.cpp -lallegro -lallegro_font -lallegro_primitives -lallegro_image -lallegro_main -std=c++11
@@ -21,7 +23,7 @@ INSERT MODE:
 click and drag to make a shape
 G in insert mode swaps between ellipses and rectangles
 
-Opens file from command line arguments
+Opens file from command line arguments (example: ./a.out ./graph.dat)
 Saves on exit to same file
 Can load any colors from files, but no options to change colors live
 

@@ -1,4 +1,4 @@
-#C++ & Allegro5 Paint Tool
+# C++ & Allegro5 Paint Tool
 
 To build the code from command line (on MacOS or Linux), do:
 
